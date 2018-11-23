@@ -10,6 +10,6 @@ print counter,
 print miles,
 print name
 
-print "===================================="
+print "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = "
 
 print a, b, c
